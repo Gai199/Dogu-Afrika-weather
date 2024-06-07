@@ -1,0 +1,5 @@
+*.c++ liguist-detectable = false
+*.cmake linguist-detectable = false
+*.js linguist-detectable = false
+*.html linguist-detectable = false
+*.dart liguist-detectable = true
