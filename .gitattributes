@@ -1,6 +1,6 @@
-*.CPP linguist-detectable=true
+*.CPP linguist-detectable=false
 *.dart linguist-detectable=true
-*.Cmake.txt linguist-detectable=true
+*.Cmake.txt linguist-detectable=false
 *.html linguist-detectable=false
 *.htm linguist-detectable=false
 
