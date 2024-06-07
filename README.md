@@ -1,16 +1,18 @@
-# dogu_afrika_weather
+# Dogu-Afrika-weather
 
-A Flutter project that fetches weather data for major cities in East Africa from weatherApi
+Dogu-Afrika-weather is a Flutter application that provides weather forecasts for major cities in East Africa, including Kampala, Juba, Nairobi, Kigali, and Dodoma. Users can select a city from a list and view detailed weather information such as temperature, condition, wind speed, and humidity. The application fetches this data from the WeatherAPI using an API key and displays it in a user-friendly interface.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Select a city from a list of major East African cities.
+- View detailed weather information for the selected city.
+- Displays temperature, weather conditions, wind speed, and humidity.
+- Fetches data from WeatherAPI.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK
+- Dart SDK
+- An API key from WeatherAPI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
